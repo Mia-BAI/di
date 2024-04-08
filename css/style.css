@@ -1,0 +1,40 @@
+@import url(<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>);
+
+@import url("components/container.css");
+@import url("components/teamspirit.css")
+
+body{
+  font-family: "Poppins", serif;
+  font-size:18px;
+   color: #A020F0;
+}
+
+.btn-blue {
+    background-color: #DDC3D0;
+    color: floralwhite;
+    padding: 6px 20px;
+    border-radius: 10%;
+    font-family: "Spectral SC", serif;
+}
+
+h1,{
+	font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  font-size:42px;
+  color: #A020F0;
+}
+
+
+h2{
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  font-size:28px;
+  color: orange;
+}
+
+h3{ 
+	font-family: 'Lora', serif;
+  font-size: 18px;
+  margin: 0px;
+   color: #A020F0;
+}
